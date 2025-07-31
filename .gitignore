@@ -1,0 +1,11 @@
+# Pastas que não devem ser versionadas
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
+*.db
+*.exe
+*.dll
+*.pdb
